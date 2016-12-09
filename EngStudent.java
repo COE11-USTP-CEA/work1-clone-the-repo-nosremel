@@ -1,4 +1,4 @@
-class EngStudent extends student{
+class EngStudent{
 
 	
 }
